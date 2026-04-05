@@ -1,3 +1,104 @@
+
+
+ Zero-Touch Growth OS
+
+AI-powered digital marketing automation platform that generates complete business strategies, content, and growth plans in seconds.
+
+⸻
+
+Features
+	•	🧠 AI Business Profile Generator
+Instantly creates brand identity, USP, and audience targeting
+	•	📅 Weekly Strategy Generator
+7-day content plan with post types and timings
+	•	🎯 Content Studio
+AI-generated captions, trend radar, and campaign ideas
+	•	📈 Growth & Ads Engine
+Predicts CTR, ROAS, and optimizes ad performance
+	•	🤖 AI Copilot
+Chat-based assistant for marketing decisions
+	•	🕵️ Competitor Intelligence
+Analyze competitors and discover opportunity gaps
+	•	🔻 Funnel Builder
+AI-generated awareness → conversion funnels
+	•	🔮 What-If Simulator
+Predict ROI based on budget and platform
+
+⸻
+
+🛠 Tech Stack
+	•	Frontend: Next.js, React, Tailwind CSS
+	•	Backend: Node.js API Routes
+	•	AI: Gemini API / LLM integration
+	•	Charts & UI: Custom components
+
+⸻
+
+📸 Screenshots
+
+🧾 Business Onboarding
+
+📊 Business Profile
+
+📅 Weekly Strategy
+
+🎯 Content Studio
+
+📈 Growth & Ads
+
+🤖 AI Copilot
+
+🕵️ Competitor Intelligence
+
+🔻 Funnel Builder
+
+🔮 What-If Simulator
+
+
+⸻
+
+⚙️ Setup
+
+git clone https://github.com/Lokesh4221/zero-touch-growth-os.git
+cd zero-touch-growth-os
+npm install
+npm run dev
+
+
+⸻
+
+🔐 Environment Variables
+
+Create a .env.local file:
+
+GEMINI_API_KEY=your_api_key_here
+
+
+⸻
+
+🚀 Future Improvements
+	•	Multi-brand support
+	•	Real-time analytics integration
+	•	Social media auto-posting
+	•	AI video generation
+
+⸻
+
+👨‍💻 Author
+
+Lokesh Ingale
+
+⸻
+
+⭐ If you like this project
+
+Give it a ⭐ on GitHub!
+:::
+
+⸻
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
